@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
-import java.io.ClassNotFoundException;
+import java.lang.ClassNotFoundException;
 import java.nio.file.Paths;
 import java.nio.file.Files;
 

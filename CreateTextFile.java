@@ -1,6 +1,6 @@
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
-import java.io.SecurityException;
+import java.lang.SecurityException;
 import java.util.Formatter;
 import java.util.FormatterClosedException;
 import java.util.NoSuchElementException;
